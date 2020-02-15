@@ -1,2 +1,2 @@
 # compiler
-Creating a compilar using Javacc 5.0
+Creating a compiler using Javacc 5.0
